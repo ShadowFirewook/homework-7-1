@@ -1,6 +1,6 @@
 public class Magic extends Hero{
     @Override
     public void applySuperAbility() {
-        System.out.println("Маг применил суперспособность : Огненная атака");
+        System.out.println("РњР°Рі РїСЂРёРјРµРЅРёР» СЃСѓРїРµСЂСЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ : РћРіРЅРµРЅРЅР°СЏ Р°С‚Р°РєР°");
     }
 }
